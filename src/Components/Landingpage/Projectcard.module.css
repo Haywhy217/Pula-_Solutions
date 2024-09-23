@@ -1,0 +1,28 @@
+.card{
+  display: flex;
+
+}
+.card img{
+  height: 296px;
+  width: 250px;
+}
+
+
+.card_para{
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  width: 280px;
+ 
+}
+
+.card_ctn{
+  display: inline-block;
+  height: 600px;
+  width: 280px;
+  border: 1px solid black;
+  border-radius: 8px;
+  gap: 20px;
+  margin: 0 auto;
+ 
+}

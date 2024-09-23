@@ -1,0 +1,27 @@
+.Hero_container {
+  position: relative;
+  width: 100%;
+  height: 80vh; 
+  overflow: hidden;  
+}
+
+.Hero_image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.Hero_text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white; 
+  text-align: center;
+  padding: 20px;
+}
+
+.Hero_text h1 {
+  font-size: 3em; 
+  margin: 0;
+}

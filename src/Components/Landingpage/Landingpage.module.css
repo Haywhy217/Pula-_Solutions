@@ -1,0 +1,45 @@
+.LP_Ctn{
+  background-color:  #111827;
+  height: 100%;
+  overflow: hidden;
+  color: white;
+  padding: 70px 0px 70px 0px;
+  gap: 60px;
+  
+}
+.lp h1{
+  width: 600px;
+  height: 70px;
+  border: 1px solid black;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  font-size: 32px;
+  font-weight: 700;
+  text-align: center;
+  line-height: normal;
+}
+.projects{
+  width: 80%;
+  height: 100%;
+  border: 2px solid white;
+  gap: 80px;
+  margin: 0 auto;
+}
+.project_1{
+  width: 85%;
+  border: 1px solid green;
+  height: 580px;
+  gap: 30px;
+  display: flex;
+  margin: 0 auto;
+  
+}
+.project_2{
+  width: 85%;
+  border: 1px solid green;
+  height: 580px;
+  gap: 30px;
+  display: flex;
+  margin: 0 auto;
+  
+}

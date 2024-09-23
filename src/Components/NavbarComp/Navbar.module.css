@@ -1,0 +1,31 @@
+.nav_container{
+  width: 100%;
+  height: 100px;
+  background-color: #111827;
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+}
+.nav_image{
+  width: 30%;
+  height: 40px;
+  margin: 0px auto;
+  margin-left:90px ;
+  justify-content: center;
+}
+
+.nav_list{
+  display: flex;
+  width: 700px;
+  list-style-type: none;
+  gap: 35px;
+  /* margin-top: 35px;
+  margin-left: 250px; */
+  
+}
+.nav_list a {
+  color: white; 
+  text-decoration: none; 
+  
+
+}
