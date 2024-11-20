@@ -1,14 +1,14 @@
 import React from 'react'
-import './Hero.css';
+import styles from './Hero.module.css';
 import BGpic from "../../assets/Images/pimage_b.png"
 import Button from '../Button/Button';
 
 
 const Hero = () => {
   return (
-    <div className='Hero_container'>
-        <img src={BGpic} className='Hero_image'/>
-        <div className='Hero_text'>
+    <div className={styles.Hero_container}>
+        <img src={BGpic} className={styles.Hero_image}/>
+        <div className={styles.Hero_text}>
           <h1>
           Cutting-edge agricultural insurance and technology solutions
           </h1>

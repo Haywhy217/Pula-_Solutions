@@ -1,7 +1,7 @@
 import React from 'react'
 import Navbar from './Components/NavbarComp/Navbar'
-import Hero from './Components/Herosection/Hero'
-import Landingpage from './Components/Landingpage/Landingpage'
+// import Hero from './Components/Herosection/Hero'
+// import Landingpage from './Components/Landingpage/Landingpage'
 
 const App = () => {
   return (
