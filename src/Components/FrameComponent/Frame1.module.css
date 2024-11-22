@@ -1,0 +1,47 @@
+.LP_Ctn{
+  background-color:  #111827;
+  height: auto;
+  overflow: hidden;
+  color: white;
+  width: 100%;
+  
+}
+.lp h1{
+   width: 500px;
+   height: auto;
+   border: 1px solid white;
+   line-height: 1.5;
+   font-family: livvic;
+   font-size: 28px;
+   font-weight: 300;
+   text-align: center;
+   margin: 0 auto;
+   box-sizing: border-box;
+   color: #F3F4F6;
+   margin-bottom: 35px;
+   margin-top: 15px;
+}
+
+.projects{
+  width: 80%;
+  border: 1px solid white;
+  margin: 0 auto;
+  height:1000px ;
+}
+
+.projects_1{
+  width: 80%;
+  height: 450px;
+  gap: 20px;
+  border: 1px solid white;
+  margin: 0 auto;
+  display: flex;
+}
+.projects_2{
+  border: 1px solid white;
+  margin: 0 auto;
+  width: 80%;
+  height: 450px;
+  display: flex;
+}
+

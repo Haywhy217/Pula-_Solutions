@@ -1,5 +1,5 @@
 import React from 'react'
-import styles from './Landingpage.module.css';
+import styles from './Frame1.module.css';
 import './Projectcard'
 import Projectcard from './Projectcard';
 import greenpic from '../../assets/Images/pimage_c.png'

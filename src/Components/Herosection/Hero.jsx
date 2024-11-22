@@ -7,12 +7,13 @@ import Button from '../Button/Button';
 const Hero = () => {
   return (
     <div className={styles.Hero_container}>
-        <img src={BGpic} className={styles.Hero_image}/>
         <div className={styles.Hero_text}>
           <h1>
           Cutting-edge agricultural insurance and technology solutions
           </h1>
           <p>We specialize in crafting and delivering innovative products tailored to smallholder farmers worldwide, empowering them to navigate yield risks, enhance farming techniques, and steadily boost their incomes.</p>
+          </div>
+          <div>
           <Button text="Learn More" onClick={() => alert("Button Clicked!")}/>
           </div>
           
